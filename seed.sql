@@ -1,0 +1,8 @@
+USE company_db
+
+INSERT INTO department VALUES 
+
+
+INSERT INTO
+
+INSERT INTO
