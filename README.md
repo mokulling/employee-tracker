@@ -27,6 +27,8 @@ This project allows for users to look through an employee management system, and
 
 [Demo Video](demo.mov)
 
+![Gif](screengif.gif)
+
 ## Contributing
 
 
