@@ -22,8 +22,10 @@ This project allows for users to look through an employee management system, and
 ## Installation
 
 
-## Usage
+## Screenshot 
+![Screenshot](screenshot.png)
 
+[Demo Video](demo.mov)
 
 ## Contributing
 
